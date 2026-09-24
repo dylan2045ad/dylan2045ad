@@ -7,14 +7,10 @@ Creator publishing daily AI/tech commentary with a near-future lens. Building a 
 ### 🛰️ Projects
 
 - **[Dylan from 2045 — Product Hub](https://dylan2045-ad.netlify.app)** — Cyberpunk landing page for my books, music, and stores. ([source](https://github.com/dylan2045ad/dylan2045-site))
-- **[DBI | Dylan Battle Info](https://osint-aggregator--dylan2045.replit.app/)** — Live OSINT-style signal dashboard for fast situational awareness.
-- **[Dylrit](https://reddit-aggregator--dylanguu11.replit.app/)** — Reddit aggregation dashboard for scanning forum-driven signals.
-- **[DNU — Dylan's New York Updates](https://dnu-dylan-new-york-updates--dylan2045aad.replit.app/)** — NYC headline dashboard focused on the latest borough-wide updates. ([source](https://github.com/dylan2045ad/dnu))
-- **[AI Pulse](https://ai-pulse-news--dylan2045ad.replit.app/)** — Live AI headlines dashboard for tracking the AI news stream.
 
 ### 🔗 Find me
 
-[X](https://x.com/dylan2045ad) · [Substack](https://substack.com/@dylan2045) · [Facebook](https://www.facebook.com/61590758964026) · [Suno](https://suno.com/@dylan2045ad)
+[X](https://x.com/dylan2045ad) · [Suno](https://suno.com/@dylan2045ad)
 
 ### 📚 Books
 
